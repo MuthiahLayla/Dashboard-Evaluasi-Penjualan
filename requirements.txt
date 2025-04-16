@@ -3,3 +3,4 @@ numpy==1.26.4
 IPython==8.27.0
 matplotlib==3.9.2
 seaborn==0.13.2
+openpyxl
